@@ -18,6 +18,7 @@ $RECYCLE.BIN/
 *.lnk
 
 training/
+testing/
 
 # =========================
 # Operating System Files
